@@ -24,3 +24,31 @@
 h3 {
   font-size: 1.5rem;
 }
+
+body{
+  background-color:rgb(255, 255, 203);
+}
+
+.img-fluid{
+  width: auto;
+  height: 80%;
+  margin-left: 40
+}
+
+h1{
+  color:rgb(67, 71, 72);
+  font-size: 50px;
+  font-family: 'Ubuntu', sans-serif;
+
+  padding: 15px;
+
+  border-style:dashed;
+  border-color: rgb(33, 32, 32);
+  border-width: 3px;
+}
+
+h2{
+  color:rgb(67, 71, 72);
+  font-size: 50px;
+  font-family: 'Ubuntu', sans-serif;
+}
