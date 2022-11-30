@@ -1,22 +1,14 @@
 {
-  "books": [
+  "dimsums": [
     {
-      "slug": "the-clown",
-      "title": "The Clown",
-      "author": "Heinrich Böll",
-      "blurb": "The Clown (German: Ansichten eines Clowns, lit. “Opinions of a clown”) is a 1963 novel by West German writer Heinrich Böll."
+      "slug": "hargow",
+      "title": "Har Gow",
+      "blurb": "Main ingredients：Wheat starch, tapioca starch, shrimp, cooked pork fat, bamboo shoots, scallions, cornstarch, sesame oil, soy sauce, sugar, and other seasonings"
     },
     {
-      "slug": "the-shipping-news",
-      "title": "The Shipping News",
-      "author": "Annie Proulx",
-      "blurb": "The Shipping News is a novel by American author E. Annie Proulx and published by Charles Scribner's Sons in 1993. It won the <a href=\"https://www.pulitzer.org/winners/e-annie-proulx\">Pulitzer Prize</a>, the <a href=\"https://www.nationalbook.org/books/shipping-news/\">U.S. National Book Award</a>, as well as other awards. It was adapted as a film of the same name which was released in 2001."
-    },
-    {
-      "slug": "the-hearing-trumpet",
-      "title": "The Hearing Trumpet",
-      "author": "Leonora Carrington",
-      "blurb": "The Hearing Trumpet is a story by Leonora Carrington about 92-year-old Marian Leatherby, who is given the gift of a hearing trumpet only to discover that what her family is saying is that she is to be committed to an institution."
+      "slug": "shumai",
+      "title": "Shumai",
+      "blurb": "Main ingredients：Seasoned ground pork, whole and chopped mutton, Chinese black mushroom, lye water dough"
     }
   ],
   "example_prose": [
@@ -58,8 +50,8 @@
     {
       "type": "img",
       "value": {
-        "filename": "the-clown.jpg",
-        "alt": "the clown"
+        "filename": "hargow.jpg",
+        "alt": "Har Gow"
       }
     },
     {
